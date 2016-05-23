@@ -58,5 +58,19 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>$12.05</td>
   <td></td>
 </tr>
+<tr>
+  <td><a href="http://www.mcmaster.com/#5233k56/=12hbhdg">Masterkleer PVC Clear Tubing, 1/4" ID 3/8" OD, 25ft</a></td>
+  <td>$6.00</td>
+  <td>1</td>
+  <td>$6.00</td>
+  <td>For vacuum, only need about 2'</td>
+</tr>
+<tr>
+  <td><a href="http://www.mcmaster.com/#51525k33/=12jfr2z">Lightweight Quick-Turn Tube Coupling, Impact Resistant Barbed Plug, for 1/8" Tube ID, Packs of 10</a></td>
+  <td<$3.93</td>
+  <td>1</td>
+  <td>$3.93</td>
+  <td></td>
+</tr>
 
 </table>
