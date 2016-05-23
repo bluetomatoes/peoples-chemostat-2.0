@@ -24,10 +24,38 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td></td>
 </tr>
 <tr>
-  <td>Chemical-Resistant Polypropylene Barbed Fitting, High-Temperature, Tee for 1/8" Tube ID, Packs of 10</td>
+  <td><a href="http://www.mcmaster.com/#barbed-tube-tees/=12jfr4m">Chemical-Resistant Polypropylene Barbed Fitting, High-Temperature, Tee for 1/8" Tube ID, Packs of 10</a></td>
   <td>$5.05</td>
   <td>1</td>
   <td>$5.05</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="http://www.mcmaster.com/#51135K16">High-Temperature Silicone Rubber Tubing Soft, 1/8" ID, 1/4" OD, Semi-Clear White, 25 ft. Length</a></td>
+  <td>$17.25</td>
+  <td>1</td>
+  <td>$17.25</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="http://www.mcmaster.com/#5463K75">Durable Nylon Tight-Seal Barbed Tube Fitting, Plug for 1/8" Tube ID, Black, Packs of 10</a></td>
+  <td>$3.59</td>
+  <td>1</td>
+  <td>$3.59</td>
+  <td>Unused; too tight</td>
+</tr>
+<tr>
+  <td><a href="http://www.mcmaster.com/#9628T54">Silicone Rubber Tubing for Peristaltic Pump 1/32" ID, .157" OD, .063" Wall Thickness, 5 ft. Length</a></td>
+  <td>$7.95</td>
+  <td>1</td>
+  <td>$7.95</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="http://www.mcmaster.com/#9628T42">Silicone Rubber Tubing for Peristaltic Pump 1/8" ID, .250" OD, .063" Wall Thickness, 5 ft. Length</a></td>
+  <td>$12.05</td>
+  <td>1</td>
+  <td>$12.05</td>
   <td></td>
 </tr>
 
