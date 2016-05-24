@@ -162,5 +162,29 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td></td>
 </tr>
 
+<tr>
+  <th colspan="6">Electronics</th>
+</tr>
+<tr>
+  <td>Rainin RP-4 Peristaltic Pump</td>
+  <td>$536.40</td>
+  <td>1</td>
+  <td>$536.40</td>
+  <td>Our pride and joy. Bought used on Bonanza.com. No active link.</td>
+</tr>
+<tr>
+  <td><a href="https://store.anovaculinary.com/products/anova-precision-cooker-wifi">Anova Sous-Vide</a></td>
+  <td>$199</td>
+  <td>1</td>
+  <td>$199</td>
+  <td>We couldn't find a waterbath that fit 4 flasks, so we used this to heat water in a box.</td>
+</tr>
+<tr>
+  <td><a href="https://www.sparkfun.com/products/10398">Vacuum Pump - 12V</a></td>
+  <td>$14.95</td>
+  <td>1</td>
+  <td>$14.95</td>
+  <td></td>
+</tr>
 
 </table>
