@@ -138,28 +138,28 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>$7.51</td>
   <td>4</td>
   <td>$30.04</td>
-  <td></td>
+  <td>Unused once we switched to hot plates with spinners.</td>
 </tr>
 <tr>
   <td><a href="http://www.vxb.com/SF693ZZ-Flanged-Ceramic-Shielded-3x8x4-Miniature-p/kit13973.htm">3mm Flanged Bearing</a></td>
   <td>$12.95</td>
   <td>4</td>
   <td>$51.80</td>
-  <td></td>
+  <td>Unused once we switched to hot plates with spinners.</td>
 </tr>
 <tr>
   <td><a href="http://www.mcmaster.com/#1265k33">Metric Miniature Type 316 Stainless Steel Drive Shaft</a></td>
   <td>$24.48</td>
   <td>1</td>
   <td>$24.48</td>
-  <td>Cut into 4 parts to make 4 spinners</td>
+  <td>Cut into 4 parts to make 4 spinners. Unused once we switched to hot plates with spinners.</td>
 </tr>
 <tr>
   <td><a href="http://www.ebay.com/itm/like/301737706798?lpid=82&chn=ps&ul_noapp=true">28BYJ-48 Stepper Motor with Breakout Board</a></td>
   <td>$1.77</td>
   <td>4</td>
   <td>$7.08</td>
-  <td></td>
+  <td>Unused once we switched to hot plates with spinners.</td>
 </tr>
 
 <tr>
