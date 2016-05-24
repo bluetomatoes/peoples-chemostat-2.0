@@ -21,7 +21,7 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>$73</td>
   <td>1</td>
   <td>$73</td>
-  <td></td>
+  <td>Runs through peristaltic pump</td>
 </tr>
 <tr>
   <td><a href="http://www.mcmaster.com/#barbed-tube-tees/=12jfr4m">Chemical-Resistant Polypropylene Barbed Fitting, High-Temperature, Tee for 1/8" Tube ID, Packs of 10</a></td>
