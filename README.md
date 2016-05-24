@@ -25,7 +25,7 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>Bought used on ebay, no active link to product</td>
 </tr>
 <tr>
-  <td>Syringe Filter, PTFE, 25mm diameter, 0.45um, 10/pk</td>
+  <td><a href="http://www.amazon.com/Syringe-Filter-PTFE-diameter-0-45um/dp/B005T45FMK">Syringe Filter, PTFE, 25mm diameter, 0.45um, 10/pk</a></td>
   <td>$11.04</td>
   <td>1</td>
   <td>$11.04</td>
