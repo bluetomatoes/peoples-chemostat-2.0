@@ -5,6 +5,8 @@ The People's Chemostat 2.0
 
 
 Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file/Tools%20$%20Info/Chemostat%20Design%20and%20Theory.pdf) of Bruce Levin and Omar Cornejo, we set out to build our own version of a chemostat.
+
+//Table of Materials
 <table>
 <tr>
   <th>Item</th>
@@ -13,8 +15,39 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <th>Total Price</th>
   <th>Notes</th>
 </tr>
+//Spinner Flasks
 <tr>
-<th colspan="6">Tubing</th>
+  <th colspan="6">Spinner Flask Materials</th>
+</tr>
+//Stoppers
+<tr>
+  <th colspan="6">Stoppers</th>
+</tr>
+<tr>
+  <td><a href="http://www.widgetco.com/1-white-silicone-rubber-stoppers">Size 1 Stoppers</a></td>
+  <td>$0.84</td>
+  <td>20</td>
+  <td>$16.80</td>
+  <td>don't need all 20, but allow for some error in drilling holes. These went into the arms of spinner flasks</td>
+</tr>
+<tr>
+  <td><a href="http://www.widgetco.com/6-white-silicone-rubber-stoppers">Size 6 Silicone Stoppers</a></td>
+  <td>$1.13</td>
+  <td>6</td>
+  <td>$6.78</td>
+  <td>Capped sides of reservoir and waste</td>
+</tr>
+<tr>
+  <td><a href="http://www.widgetco.com/10-white-silicone-rubber-stoppers">Size 10 Silicone Stoppers</a></td>
+  <td>$3.63</td>
+  <td>3</td>
+  <td>$10.89</td>
+  <td>Capped reservoir and waste</td>
+</tr>
+
+//Tubing
+<tr>
+  <th colspan="6">Tubing</th>
 </tr>
 <tr>
   <td><a href="http://www.coleparmer.com/Product/Ismatec_Two_stop_silicone_platinum_cured_tubing_1_52_mm_ID_6_pack/EW-95602-36">Ismatec Two-stop silicone (platinum cured) tubing, 1.52 mm ID, 6/pack</a></td>
@@ -79,6 +112,8 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>$47.60</td>
   <td></td>
 </tr>
+
+//Spinner materials
 <tr>
   <th colspan="6">Spinner Materials</th>
 </tr>
@@ -111,29 +146,5 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>Cut into 4 parts to make 4 spinners</td>
 </tr>
 
-<tr>
-  <th colspan="6">Stoppers</th>
-</tr>
-<tr>
-  <td><a href="http://www.widgetco.com/1-white-silicone-rubber-stoppers">Size 1 Stoppers</a></td>
-  <td>$0.84</td>
-  <td>20</td>
-  <td>$16.80</td>
-  <td>don't need all 20, but allow for some error in drilling holes</td>
-</tr>
-<tr>
-  <td><a href="http://www.widgetco.com/6-white-silicone-rubber-stoppers">Size 6 Silicone Stoppers</a></td>
-  <td>$1.13</td>
-  <td>6</td>
-  <td>$6.78</td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="http://www.widgetco.com/10-white-silicone-rubber-stoppers">Size 10 Silicone Stoppers</a></td>
-  <td>$3.63</td>
-  <td>3</td>
-  <td>$10.89</td>
-  <td></td>
-</tr>
 
 </table>
