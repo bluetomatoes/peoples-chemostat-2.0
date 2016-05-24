@@ -6,7 +6,6 @@ The People's Chemostat 2.0
 
 Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file/Tools%20$%20Info/Chemostat%20Design%20and%20Theory.pdf) of Bruce Levin and Omar Cornejo, we set out to build our own version of a chemostat.
 
-//Table of Materials
 <table>
 <tr>
   <th>Item</th>
@@ -15,11 +14,24 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <th>Total Price</th>
   <th>Notes</th>
 </tr>
-//Spinner Flasks
 <tr>
   <th colspan="6">Spinner Flask Materials</th>
 </tr>
-//Stoppers
+<tr>
+  <td>Bellco Spinner Flasks, 250ml</td>
+  <td>$29.99</td>
+  <td>4</td>
+  <td>$119.96</td>
+  <td>Bought used on ebay, no active link to product</td>
+</tr>
+<tr>
+  <td>Syringe Filter, PTFE, 25mm diameter, 0.45um, 10/pk</td>
+  <td>$11.04</td>
+  <td>1</td>
+  <td>$11.04</td>
+  <td></td>
+</tr>
+
 <tr>
   <th colspan="6">Stoppers</th>
 </tr>
@@ -44,8 +56,6 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>$10.89</td>
   <td>Capped reservoir and waste</td>
 </tr>
-
-//Tubing
 <tr>
   <th colspan="6">Tubing</th>
 </tr>
@@ -113,7 +123,6 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td></td>
 </tr>
 
-//Spinner materials
 <tr>
   <th colspan="6">Spinner Materials</th>
 </tr>
@@ -143,7 +152,7 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>$1.77</td>
   <td>4</td>
   <td>$7.08/td>
-  <td>Cut into 4 parts to make 4 spinners</td>
+  <td></td>
 </tr>
 
 
