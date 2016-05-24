@@ -186,5 +186,26 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>$14.95</td>
   <td></td>
 </tr>
+<tr>
+  <td><a href="http://www.sainsmart.com/sainsmart-leonardo-r3-atmega32u4-development-board-for-arduino.html">Arduino Leonardo</a></td>
+  <td>$13.09</td>
+  <td>1</td>
+  <td>$13.09</td>
+  <td>Powers spinners and vaccum pump.</td>
+</tr>
+<tr>
+  <td><a href="https://www.sparkfun.com/products/9939">Rotary Potentiometer - 10k Ohm, Linear</a></td>
+  <td>$0.95</td>
+  <td>1</td>
+  <td>$0.95</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://www.sparkfun.com/products/13769">Relay Shield</a></td>
+  <td>$11.95</td>
+  <td>1</td>
+  <td>$11.95</td>
+  <td>Not the one we used. Switches vaccum on/off based on potentiometer input.</td>
+</tr>
 
 </table>
