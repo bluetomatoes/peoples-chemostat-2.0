@@ -31,6 +31,13 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td>$11.04</td>
   <td></td>
 </tr>
+<tr>
+  <td><a href="http://www.carolina.com/lab-pipets/pyrex-disposable-glass-serological-nonsterile-nonplugged-pipet-1-ml-pack-of-50/736304.pr?question=serological">Pyrex® Disposable Glass Serological, NonSterile, NonPlugged Pipet, 1 mL, Pack of 50</a></td>
+  <td>$18.20</td>
+  <td>1</td>
+  <td>$18.20</td>
+  <td></td>
+</tr>
 
 <tr>
   <th colspan="6">Stoppers</th>
