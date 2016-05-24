@@ -158,7 +158,7 @@ Inspired by the ["People's Chemostat"](http://eclf.net/sites/eclf.net/files/file
   <td><a href="http://www.ebay.com/itm/like/301737706798?lpid=82&chn=ps&ul_noapp=true">28BYJ-48 Stepper Motor with Breakout Board</a></td>
   <td>$1.77</td>
   <td>4</td>
-  <td>$7.08/td>
+  <td>$7.08</td>
   <td></td>
 </tr>
 
